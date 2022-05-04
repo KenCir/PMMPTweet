@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/KenCir/PMMPTweet
+build-by-default: true
+branches:
+- master
+projects:
+  PMMPTweet:
+    path: ""
+...
