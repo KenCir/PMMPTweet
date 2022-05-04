@@ -1,0 +1,5 @@
+name: Tweet
+description: Tweeting From PocketMine-MP
+version: 1.0.0
+api: 4.0.0
+main: Ken_Cir\Tweet\Tweet
