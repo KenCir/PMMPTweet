@@ -1,0 +1,10 @@
+# Config version
+version: 1.0.0
+
+twitterKey: ""
+
+twitterSecret: ""
+
+accessTokenKey: ""
+
+accessTokenSecret: ""

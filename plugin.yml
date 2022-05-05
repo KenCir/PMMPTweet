@@ -3,3 +3,8 @@ description: Tweeting From PocketMine-MP
 version: 1.0.0
 api: 4.0.0
 main: Ken_Cir\Tweet\Tweet
+
+permissions:
+  tweet.command:
+    description: Tweet Command Permission
+    default: true
